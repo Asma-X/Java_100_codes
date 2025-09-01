@@ -1,4 +1,4 @@
-package Polymorhism;
+package Polymorphism;
 
 class MathUtil {
     // Method overloading

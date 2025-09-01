@@ -1,4 +1,4 @@
-package Polymorhism;
+package Polymorphism;
 
 class Animal {
     void sound() {

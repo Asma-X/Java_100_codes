@@ -6,7 +6,7 @@
 // Converting superclass reference → subclass reference.
 // Must be done carefully with instanceof check.
 
-package Polymorhism;
+package Polymorphism;
 
 class Animal {
     void sound() {
